@@ -12,7 +12,7 @@
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://raw.githubusercontent.com/Sud0-AP/BUIDL-IRL-PolygonID/master/manipal-university-college-id-vocab.md#",
+          "vocab": "https://raw.githubusercontent.com/0xPrakharG/BUIDL_IRL_PolygonID/main/houseRent-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "houseRent": {
             "@id": "vocab:houseRent",
