@@ -3,8 +3,8 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "https://raw.githubusercontent.com/0xPolygonID/tutorial-examples/main/credential-schema/proof-of-dao-longevity.jsonld",
-        "jsonSchema": "https://raw.githubusercontent.com/0xPolygonID/tutorial-examples/main/credential-schema/proof-of-dao-longevity.json"
+        "jsonLdContext": "https://raw.githubusercontent.com/0xPrakharG/BUIDL_IRL_PolygonID/main/houseRent.jsonld",
+        "jsonSchema": "https://raw.githubusercontent.com/Sud0-AP/BUIDL-IRL-PolygonID/master/manipal-university-college-id-vocab.md"
       }
     },
     "required": [

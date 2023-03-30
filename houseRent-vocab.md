@@ -1,3 +1,3 @@
-# 
+# houseRent
 
-Describes the date when a contributor joined the DAO
+Describes the monthly house rent.
