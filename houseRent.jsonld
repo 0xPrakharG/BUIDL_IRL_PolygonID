@@ -6,7 +6,7 @@
       "id": "@id",
       "type": "@type",
       "MonthlyHouseRent": {
-        "@id": "https://raw.githubusercontent.com/0xPrakharG/BUIDL_IRL_PolygonID/main/houseRent.jsonld#MonthlyHouseRent",
+        "@id": "https://raw.githubusercontent.com/0xPrakharG/BUIDL_IRL_PolygonID/main/houseRent.jsonld#houseRent",
         "@context": {
           "@version": 1.1,
           "@protected": true,
